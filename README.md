@@ -1,5 +1,5 @@
 # PYTHON TUTORIAL
-![follow](https://img.shields.io/github/followers/turdibekjumabaev.svg?style=social&label=Follow&maxAge=2592000) 
+[![follow](https://img.shields.io/github/followers/turdibekjumabaev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/turdibekjumabaev?tab=followers)
 ![forks](https://img.shields.io/github/forks/turdibekjumabaev/python-tutorial.svg) 
 ![starts](https://img.shields.io/github/stars/turdibekjumabaev/python-tutorial.svg) 
 ![license](https://img.shields.io/github/license/turdibekjumabaev/python-tutorial.svg) 
