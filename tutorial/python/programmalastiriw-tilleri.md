@@ -22,6 +22,6 @@ Adamlar jıllar dawamında kompyuterler menen baylanısta bolıw ushın, adam ti
 >
 > Programmalastırıw tilleri de tap sonday. Siz tildi emes, bálki jónelis tańlań! Sonda kerekli til ózi aldıńızdan shıģadı, sebebi hár bir tildiń óz ornı bar. Hár bir til óz jónelisinde júdá zor isleydi, bıraq usı til basqa jónelis ushın isletilse, onıń paydasınan kóre zıyanı kóbrek boldı.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Ulıwmalastırıp aytqanda siz programmalastırıw tarawına endi kirip kelgen bolsańız, qaysı tildi úyreniwińiz áhmiyetsiz. Siz programmalastırıw teoriyasın hám principlerin jaqsı úyreniwińiz kerek.
 {% endhint %}
