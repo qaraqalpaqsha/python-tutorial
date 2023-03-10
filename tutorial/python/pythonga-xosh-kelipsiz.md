@@ -1,7 +1,5 @@
 # PYTHONGA XOSH KELIPSIZ
 
-
-
 Python úyreniwge ańsat, paydalanıw ushın qolay, kóp qırlı programmalastırıw tili bolıp, programmalastırıwģa jańadan kirgenler ushın da, taraw mamanları ushın da zor tańlaw.
 
 {% hint style="info" %}
@@ -12,7 +10,7 @@ Programmalastırıw tilleriniń tariyxıy ensklopediasına qaraģanda, adamlar s
 
 **1.**    Python programmalastırıw tiline bolģan talap jıldan jılģa asıp barmaqta. TIOBE protalınıń izertewlerine qaraģanda,2021-2022-jıllardaģı hám 2023-jıl fevral ayındaģı nátiyjelerge qaraģanda Python tili jetekshi 1-orındı iyelep turıptı.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><a href="https://www.tiobe.com/tiobe-index/">https://www.tiobe.com/tiobe-index/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p><a href="https://www.tiobe.com/tiobe-index/">https://www.tiobe.com/tiobe-index/</a></p></figcaption></figure>
 
 **2.**    Python Artificial Intelligence (Jasalma itellekt) hám Data Science (Maģlıwmatlar ilimi) tarawlarınıń tili esaplanadı. Búgingi kúnde keń tarqalıp baratırģan jasalma intellekt tiykarında islewshi programmalardıń basım kópshiligi Pythonda jazılģan. Bul taraw mamanları búgingi kúnde eń kem ushraytuģın hám qımbat baxalı kadrlar esaplanadı.
 
@@ -37,7 +35,7 @@ print("Assalawma aleykum")
 
 **5.**    Python programmalastırıw tili belgili bir máseleni sheshiw menen shegaralanıp qalmaģan. Bul til programmistlerge jańadan jańda tarawlarģa kiriw imkaniyatın beredi. Python tómendegi tarawlarda qollanıladı: Veb, maģlıwmatlar bazası menen islew (DB), kompyuter oyınların jaratıw, computer vision, paydalanıwshılar ushın grafik interfays (GUI), mobil programmalar hám taģı basqalar.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## PYTHON TILINEN KIMLER PAYDALANADÍ?
 
@@ -77,7 +75,7 @@ Guide van Rossum 2018-jıldıń 12-iyulında jetekshilik lawazımınan ketti. Ol
 
 > Ruby, Cobra, Boo, CoffeeScript, ECMAScript, Groovy, Swift, OCaml, Julia hám taģı basqa tillerdi jaratıwda Python tilinen yosh alınģan.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Python tiliniń versiyaları hám jaratılģan waqıtları.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Python tiliniń versiyaları hám jaratılģan waqıtları.</p></figcaption></figure>
 
 ## PYTHONNÍŃ EKINSHI HÁM ÚSHINSHI VERSIYALARÍ
 
@@ -96,7 +94,7 @@ Kompyuterimizde programma jazıw ushın dáslep programmalastırıw tili, soń p
 
 **1.**    Brauzerdi iske túsiriń, [python.org](https://www.python.org/downloads) saytın ashıń hám Windows ushın júklep alıń:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **2.**    Júklep alınģan fayldı eki márte basıń hám Pythondı ornatıń:
 
@@ -106,11 +104,11 @@ Kompyuterimizde programma jazıw ushın dáslep programmalastırıw tili, soń p
 
 **3.**    Ornatıw juwmaqlanģannan soń, `Disable path length limit` hám keyin `Close` túymesin basıń. **** (bazı versiyalarda bul bólim shıqpawı da múmkin).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.**    Python ornatıldı, `Close` túymesin basıń:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Macintosh
 
