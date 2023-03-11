@@ -10,7 +10,7 @@ Derlik hámme programmist úyreniwdi, `Hello, World!` sózin ekranģa shıģarı
 
 `IDLE` bul Python tiliniń standart text redaktorı bolıp, Python menen birge ornatıladı. Bizge kod jazıw hám jazģan kodlarımızdıń natijesin kóriwge járdem beredi. Kompyuterińizden IDLE redaktorın izlep tawıń hám iske túsiriń.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>IDLE</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>IDLE</p></figcaption></figure>
 
 {% hint style="info" %}
 Házir ashılģan ayna, `konsol` delinedi. Jazģan kodlarımızdıń nátijesin usı ayna arqalı kóremiz.

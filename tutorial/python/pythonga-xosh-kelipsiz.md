@@ -75,7 +75,7 @@ Guide van Rossum 2018-jıldıń 12-iyulında jetekshilik lawazımınan ketti. Ol
 
 > Ruby, Cobra, Boo, CoffeeScript, ECMAScript, Groovy, Swift, OCaml, Julia hám taģı basqa tillerdi jaratıwda Python tilinen yosh alınģan.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Python tiliniń versiyaları hám jaratılģan waqıtları.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Python tiliniń versiyaları hám jaratılģan waqıtları.</p></figcaption></figure>
 
 ## PYTHONNÍŃ EKINSHI HÁM ÚSHINSHI VERSIYALARÍ
 
