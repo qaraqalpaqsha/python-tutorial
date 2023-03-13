@@ -61,7 +61,7 @@ Text radaktorģa ótiń hám `print("Sálem, Álem!")` kodın jazıń. Fayldı s
 
 Endi kodımızdı iske túsiremiz. Bunıń ushın text redaktor aynasınıń joqarģı bólimindegi `Run` menyusine ótip, `Run Module`di yamasa `F5` túymesin basıń.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Konsolda `Sálem, Álem!` jazıwın kórgen bolsańız, **QUTLÍQLAYMAN!** Siz Pythonda birinshi programmańızdı jazdıńız.
 
