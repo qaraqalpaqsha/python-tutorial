@@ -100,7 +100,7 @@ Kompyuterimizde programma jazıw ushın dáslep programmalastırıw tili, soń p
 
 `Add Python 3.x to PATH` qatarın belgileń hám `Install Now`dı basıń.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.**    Ornatıw juwmaqlanģannan soń, `Disable path length limit` hám keyin `Close` túymesin basıń. **** (bazı versiyalarda bul bólim shıqpawı da múmkin).
 

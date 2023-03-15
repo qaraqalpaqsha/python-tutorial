@@ -18,7 +18,7 @@ Házir ashılģan ayna, `konsol` delinedi. Jazģan kodlarımızdıń nátijesin 
 
 Konsolde qısqa kodlardı jazıp kóriwimiz múmkin. Mısal ushın:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Arifmetik ámellerdi orınlaw</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Arifmetik ámellerdi orınlaw</p></figcaption></figure>
 
 Konsolde kod jazıwģa da, nátijesin kóriwge de boladı. Bıraq biz, olay islemeymiz. Kod jazıwımız ushın taza Python fayl jaratamız hám sol faylģa kod jazamız.
 
@@ -28,7 +28,7 @@ Taza Python fayl jaratıw ushın, **** joqarģı-shep táreptegi `File` menyusin
 
 Nátijede taza ayna ashıladı:
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ashılģan taza ayna</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Ashılģan taza ayna</p></figcaption></figure>
 
 Endi fayldı saqlawımız kerek! Tazadan ashılģan aynanıń joqarģı-shep tárepindegi `File` menyusine ótiń, `Save`di basıń hám kodlarıńızdı saqlap barıw ushın papka tańlap bolģansoń faylıńızģa at qoyıń keyin `Save`di basıń.
 
@@ -53,11 +53,11 @@ Eger usı jerge deyin jetip kelgen bolsańız, sizdi qutlıqlayman 👏. Kishigi
 
 Kod jazıwımız ushın hámme nárse tayyar. Siz de súwrettegidey etip, aynalardı bir qatarģa qoyıp alıń. Biz endi oń táreptegi ayna yaģıniy text redaktorında kod jazamız hám nátijeni shep táreptegi ayna yaģıniy konsolda kóremiz.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>konsol &#x26; tekst redaktor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>konsol &#x26; tekst redaktor</p></figcaption></figure>
 
 Text radaktorģa ótiń hám `print("Sálem, Álem!")` kodın jazıń. Fayldı saqlań, saqlaw ushın `File` menyusine ótip `Save`di basıń yamasa `Ctrl+S` túymeler kombinatciyasın paydalanıń.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>fayl saqlandı</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>fayl saqlandı</p></figcaption></figure>
 
 Endi kodımızdı iske túsiremiz. Bunıń ushın text redaktor aynasınıń joqarģı bólimindegi `Run` menyusine ótip, `Run Module`di yamasa `F5` túymesin basıń.
 
