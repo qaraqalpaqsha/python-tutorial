@@ -22,7 +22,7 @@ Konsolde qısqa kodlardı jazıp kóriwimiz múmkin. Mısal ushın:
 
 Konsolde kod jazıwģa da, nátijesin kóriwge de boladı. Bıraq biz, olay islemeymiz. Kod jazıwımız ushın taza Python fayl jaratamız hám sol faylģa kod jazamız.
 
-Taza Python fayl jaratıw ushın, **** joqarģı-shep táreptegi `File` menyusine ótiń, `New File`di tańlań yamasa `Ctrl+N`di basıń!
+Taza Python fayl jaratıw ushın, \*\*\*\* joqarģı-shep táreptegi `File` menyusine ótiń, `New File`di tańlań yamasa `Ctrl+N`di basıń!
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>joqarģı-shep tárep</p></figcaption></figure>
 
@@ -61,7 +61,7 @@ Text radaktorģa ótiń hám `print("Sálem, Álem!")` kodın jazıń. Fayldı s
 
 Endi kodımızdı iske túsiremiz. Bunıń ushın text redaktor aynasınıń joqarģı bólimindegi `Run` menyusine ótip, `Run Module`di yamasa `F5` túymesin basıń.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Konsolda `Sálem, Álem!` jazıwın kórgen bolsańız, **QUTLÍQLAYMAN!** Siz Pythonda birinshi programmańızdı jazdıńız.
 

@@ -12,7 +12,7 @@ Kompyuterdiń tiykarģı waziypaları maģlıwmatlardı oqıw, olar ústinde tú
 
 Bul aytqanlarımız arqalı temanıń mazmunın jaqsı túsinbegen bolıwıńız múmkin. Keliń real ómirdegi qandayda bir process penen salıstıramız. Kóz aldıńızģa keltiriń, siz dúkannan bir kilogram alma aldıńız. Endi onı úyge alıp qaytıwıńız kerek. Bir kilogram alma qolımızģa sıymaydı. Demek almalardı bir zatqa jıynap alıw kerek. Sizde salafan paket hám banka ekewinen birin tańlaw imkaniyatı bar.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>banka &#x26; salafan paket</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>banka &#x26; salafan paket</p></figcaption></figure>
 
 Úlken itimal menen almalardı salıw ushın salafan paketti tańlaģan bolar edińiz. Eger, biz alıp qaytıwımız kerek bolģan nárse alma emes 1 litr suw bolsa ne qılasız? Suwdıda salafan paketke salıw múmkin, almalardı da bankaģa salıp qaytıwģa boladı. Bıraq biz olay islemeymiz, almalardı salafan paketke, suwdı bolsa bankaģa salamız. Sebebi, solay islegenimiz durıs boladı. Programma jazıw waqtında da hár túrli jaģday bolıwı múmkin. Biz jaģdayģa qarap joqarda sanap ótilgen maģlıwmat túrlerinen kereklisin tańlap paydalanamız.
 
